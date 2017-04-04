@@ -1,0 +1,15 @@
+C:\Users\Jimmy\Desktop\DummyFinger\DummyFinger\bin\Debug\DummyFinger.dll
+C:\Users\Jimmy\Desktop\DummyFinger\DummyFinger\bin\Debug\DummyFinger.pdb
+C:\Users\Jimmy\Desktop\DummyFinger\DummyFinger\obj\Debug\DummyFinger.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\DummyFinger\DummyFinger\obj\Debug\DummyFinger.dll
+C:\Users\Jimmy\Desktop\DummyFinger\DummyFinger\obj\Debug\DummyFinger.pdb
+F:\DummyFinger\DummyFinger\bin\Debug\DummyFinger.dll
+F:\DummyFinger\DummyFinger\bin\Debug\DummyFinger.pdb
+F:\DummyFinger\DummyFinger\obj\Debug\DummyFinger.csprojResolveAssemblyReference.cache
+F:\DummyFinger\DummyFinger\obj\Debug\DummyFinger.dll
+F:\DummyFinger\DummyFinger\obj\Debug\DummyFinger.pdb
+C:\Users\Kevin\Desktop\DummyFinger\DummyFinger\bin\Debug\DummyFinger.dll
+C:\Users\Kevin\Desktop\DummyFinger\DummyFinger\bin\Debug\DummyFinger.pdb
+C:\Users\Kevin\Desktop\DummyFinger\DummyFinger\obj\Debug\DummyFinger.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\DummyFinger\DummyFinger\obj\Debug\DummyFinger.dll
+C:\Users\Kevin\Desktop\DummyFinger\DummyFinger\obj\Debug\DummyFinger.pdb
